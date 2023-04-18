@@ -1,0 +1,23 @@
+{
+  "name": "vitepress-vue2",
+  "version": "0.0.0",
+  "description": "use vitepress to develop the vue2 component library documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vite-plugin/vitepress-vue2.git"
+  },
+  "keywords": [
+    "vitepress",
+    "vue2"
+  ],
+  "author": "yonglei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vite-plugin/vitepress-vue2/issues"
+  },
+  "homepage": "https://github.com/vite-plugin/vitepress-vue2#readme"
+}
